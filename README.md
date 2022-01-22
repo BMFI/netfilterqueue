@@ -1,6 +1,6 @@
 # netfilterqueue
 A lot of persons have had some difficulty with netfilterqueue
-Josh from netfilterqueue contacted me and let me know it is fixed Josh said "it will be on pypi shortly". Besides, Woden e-mailed me today and said,
+Woden e-mailed me today and said,
 " Can you try installing like this?
 
 sudo pip3 install --upgrade -U git+https://github.com/kti/python-netfilterqueue

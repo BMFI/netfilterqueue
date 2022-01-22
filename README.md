@@ -6,9 +6,15 @@ Josh from netfilterqueue contacted me and let me know it is fixed Josh said "it 
 sudo pip3 install --upgrade -U git+https://github.com/kti/python-netfilterqueue
 This worked for me.
 
+BMFI said, "I tried the copy and past code from pypi and it was still throwing error"
+
 Installing from pip still had this problem as of 1/15."
 
-That deprecates the netfilerqueue wiki, but you can use it to altinstall py3.6 with py3.9(2.7). Moreover:
+BMFI said, "I tried the copy and past code from pypi.org as of 01/21/22 and it was still throwing error"
+
+The Instructions on the netfilterqueue work with the following changes for: 
+sudo apt-get install build-essential python-dev libnetfilter-queue-dev
+listed on the wiki for netfilterqueue on BMFI.Thank you
 
 Anyone or any organization can use the BFMI agreement, so just copy and paste it in or on your code, program, work or works. For instance:
 
